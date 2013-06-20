@@ -1,0 +1,16 @@
+".container": {
+	backgroundColor:"white",
+	layout: "vertical"
+},
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+},
+"#instructLabel": {
+	width: "280",
+	top: "20"
+},
+"#inputText": {
+	width: "300"
+}

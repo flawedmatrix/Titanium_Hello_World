@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<Label id="instructLabel">Enter in text and press OK to change the label text!</Label>
+		<Label id="label">Hello, World</Label>
+		<TextField id="inputText" value=""></TextField>
+		<Button id="confirmButton" onClick="confirmCB">OK</Button>
+	</Window>
+</Alloy>
